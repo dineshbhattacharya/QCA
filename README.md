@@ -40,16 +40,16 @@ All QCA-based designs demonstrated **~15% improved power efficiency** over equiv
 
 ## 📁 Project Structure
 
+```plaintext
 QCA-Digital-Circuits/
-├── logic_gates/       # AND, OR, NOT, XOR QCA layouts
-├── multiplexers/      # QCA multiplexer design
-├── flip_flops/        # D, JK flip-flop designs
-├── registers/         # QCA register implementations
-├── lfsr_prng/         # 3-stage LFSR PRNG implementation
-├── screenshots/       # Simulation layout snapshots
-└── README.md          # Project documentation
-
-
+├── logic_gates/       # AND, OR, NOT, XOR QCA layouts  
+├── multiplexers/      # QCA multiplexer design  
+├── flip_flops/        # D, JK flip-flop designs  
+├── registers/         # QCA register implementations  
+├── lfsr_prng/         # 3-stage LFSR PRNG implementation  
+├── screenshots/       # Simulation layout snapshots  
+└── README.md          # Project documentation  
+```
 ---
 
 ## 🛠 Tools Used
