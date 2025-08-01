@@ -79,8 +79,8 @@ QCA-Digital-Circuits/
 ## 📫 Contact
 
 For questions or collaboration:  
-**Rahul Halder**  
-📧 [your-email@example.com]  
+**Dinesh Bhattacharya**  
+📧 dineshbhattacharya2002@gmail.com]  
 🔗 [LinkedIn / Portfolio link if applicable]
 
 ---
