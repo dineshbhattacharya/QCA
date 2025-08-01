@@ -80,7 +80,7 @@ QCA-Digital-Circuits/
 
 For questions or collaboration:  
 **Dinesh Bhattacharya**  
-📧 dineshbhattacharya2002@gmail.com]  
+📧 dineshbhattacharya2002@gmail.com
 🔗 [LinkedIn / Portfolio link if applicable]
 
 ---
